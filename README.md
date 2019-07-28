@@ -1,2 +1,2 @@
 # Jenkins-shared-library
-Sample Jenkinfile for shared library
+Shared Library for Sending Mail Notification for jenkins Job
