@@ -1,2 +1,2 @@
 # Jenkins-shared-library
-basic document for jenkins shared library
+Sample Jenkinfile for shared library
